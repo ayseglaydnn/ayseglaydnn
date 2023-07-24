@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayseglaydnn&label=Profile%20views&color=0e75b6&style=flat" alt="ayseglaydnn" /> </p>
 
 - 🔭 I’m currently working on [Data Crawler Project](https://github.com/ayseglaydnn/DataCrawler-UpSchool-BackEndGraduatedProject)
-Here is the presentation video: [Up School Capstone Project Presentation](https://youtu.be/SXPmv4G3eA4)
+  Here is the presentation video: [Up School Capstone Project Presentation](https://youtu.be/SXPmv4G3eA4)
 
 - 🌱 I’m currently learning **.NET Core with C#, React and more.**
 
