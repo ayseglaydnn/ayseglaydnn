@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayseglaydnn&label=Profile%20views&color=0e75b6&style=flat" alt="ayseglaydnn" /> </p>
 
-- 🔭 I’m currently working on [Data Crawler Project](https://github.com/ayseglaydnn/DataCrawler-UpSchool-BackEndGraduatedProject)  
+- 🔭 Up School, full-stack development bootcamp graduation project is [Data Crawler Project](https://github.com/ayseglaydnn/DataCrawler-UpSchool-BackEndGraduatedProject)  
   Here is the presentation video: [Up School Capstone Project Presentation](https://youtu.be/SXPmv4G3eA4)
 
 - 🌱 I’m currently learning **.NET Core with C#, React and more.**
 
-- 👨‍💻 I'm currently improving myself at full-stack development bootcamp by UpSchool. All my projects during the program are available [UpSchool-FullStack-Development-Bootcamp](https://github.com/ayseglaydnn/UpSchool-FullStack-Development-Bootcamp)
+- 👨‍💻 I'm currently improving myself at full-stack development bootcamp by Tobeto-IstanbulKodluyor. All my projects during the program are available [Tobeto/IstanbulKodluyor](https://github.com/ayseglaydnn/Tobeto-IstanbulKodluyor)
 
 - 📫 How to reach me **aysegul.416.aydin@gmail.com**
 
